@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+xgboost
+matplotlib
+uvicorn
+fastapi
+prometheus_fastapi_instrumentator
+evidently==0.3.1
